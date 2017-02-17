@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 bella.nadhifah StafCS 4096 Feb 17 21:06 .
+drwx--x--x  3 bella.nadhifah StafCS 4096 Feb 17 20:35 ..
+drwxr-xr-x  8 bella.nadhifah StafCS 4096 Feb 17 21:05 .git
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:48 key
+-rw-r--r--  1 bella.nadhifah StafCS    0 Feb 17 21:07 lab01.txt
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:48 log
+-rw-r--r--  1 bella.nadhifah StafCS    7 Feb 17 20:35 README.md
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:55 sandbox
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 21:03 week00
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:46 week01
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:46 week02
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:46 week03
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:47 week04
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:47 week05
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:47 week06
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:47 week07
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:47 week08
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:47 week09
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:48 week10
+drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:48 xtra
+/home/fasilkom/mahasiswa/b/bella.nadhifah/os171/week01
