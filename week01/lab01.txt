@@ -20,3 +20,4 @@ drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:47 week09
 drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:48 week10
 drwxr-xr-x  2 bella.nadhifah StafCS 4096 Feb 17 20:48 xtra
 /home/fasilkom/mahasiswa/b/bella.nadhifah/os171/week01
+Today is 17 Feb 2017 at 21:31:07
