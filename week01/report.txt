@@ -1,0 +1,9 @@
+Pada week 1 saya belajar untuk melakukan cloning git hub ke badak. Lalu 
+
+saya belajar bagaimana cara membuat buat folder dengan menggunakan terminal
+
+badak. Saya juga belajar untuk berpindah direktori. Saya juga belajar membuat file. Juga belajar membuat file dengan vi/nano. Saya belajar menggunakan
+
+commit, pull, push dengan git. Menghapus file. Mengedit dan commit langsung
+
+dari github di browser.
