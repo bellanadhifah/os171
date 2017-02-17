@@ -1,0 +1,5 @@
+Pada week 0 saya membuat account github, Mengisi google form, menunggu 24 jam.
+
+Setelah itu, saya melakukan login ssh ke badak.cs.ui.ac.id mengikuti panduan
+
+yang disediakan di forum. 
